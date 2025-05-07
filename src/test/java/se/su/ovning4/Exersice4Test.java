@@ -9,6 +9,10 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.*;
 import java.util.stream.Collectors;
+import se.su.inlupp.Graph;
+import se.su.inlupp.Edge;
+import se.su.inlupp.ListGraph;
+
 
 import static org.junit.jupiter.api.Assertions.*;
 
